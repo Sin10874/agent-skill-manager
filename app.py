@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Claude Skill Manager — A zero-dependency visual dashboard for managing Claude Code skills.
+Agent Skill Manager — A zero-dependency visual dashboard for managing agent skills.
 
 Usage:
     python app.py                  # Auto-detect language, auto-find port

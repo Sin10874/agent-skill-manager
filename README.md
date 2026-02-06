@@ -1,8 +1,8 @@
 # Agent Skill Manager
 
-A zero-dependency visual dashboard for managing your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills.
+A zero-dependency visual dashboard for managing your agent skills.
 
-零依赖的可视化面板，轻松管理你的 Claude Code 技能。
+零依赖的可视化面板，轻松管理你的 Agent Skills。
 
 ![Retro File Manager UI](https://img.shields.io/badge/UI-Retro_File_Manager-d8d0c4?style=flat-square) ![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-3776ab?style=flat-square) ![No Dependencies](https://img.shields.io/badge/Dependencies-None-5a8a4f?style=flat-square) ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
@@ -97,7 +97,7 @@ python3 app.py --no-open       # Don't auto-open browser
 
 ## How It Works
 
-The dashboard scans these directories for Claude Code skills:
+The dashboard scans these directories for agent skills:
 
 - `~/.claude/skills/` — Installed skills
 - `~/.claude/commands/` — Custom commands
