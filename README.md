@@ -1,4 +1,4 @@
-# Claude Skill Manager
+# Agent Skill Manager
 
 A zero-dependency visual dashboard for managing your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills.
 
