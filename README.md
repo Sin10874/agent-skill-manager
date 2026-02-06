@@ -2,7 +2,7 @@
 
 A zero-dependency visual dashboard for managing your agent skills.
 
-零依赖的可视化面板，轻松管理你的 Agent Skills。
+可视化面板，轻松管理电脑本地的 Agent Skills。
 
 ![Retro File Manager UI](https://img.shields.io/badge/UI-Retro_File_Manager-d8d0c4?style=flat-square) ![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-3776ab?style=flat-square) ![No Dependencies](https://img.shields.io/badge/Dependencies-None-5a8a4f?style=flat-square) ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
